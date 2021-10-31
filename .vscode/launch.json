@@ -1,0 +1,51 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch DataFiles",
+            "request": "launch",
+            "mainClass": "practice.DataFiles",
+            "projectName": "Coding---Personal_c4943455"
+        },
+        {
+            "type": "java",
+            "name": "Launch blankFiller",
+            "request": "launch",
+            "mainClass": "practice.blankFiller",
+            "args": ["retromingent, ", "chartreuse", "lactose intolerant"],
+            "projectName": "Coding---Personal_c4943455"
+
+        },
+        {
+            "type": "java",
+            "name": "Launch root",
+            "request": "launch",
+            "mainClass": "practice.root",
+            "projectName": "Coding---Personal_c4943455"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "practice.test",
+            "projectName": "Coding---Personal_c4943455"
+        },
+        {
+            "type": "java",
+            "name": "Launch variables",
+            "request": "launch",
+            "mainClass": "practice.variables",
+            "projectName": "Coding---Personal_c4943455"
+        }
+    ]
+}
