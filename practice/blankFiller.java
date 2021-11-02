@@ -1,4 +1,4 @@
-package practice.java.modems;
+package practice;
 
 public class blankFiller {
     public static void main(String[] arguements) {

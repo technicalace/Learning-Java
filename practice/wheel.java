@@ -1,4 +1,4 @@
-package practice.java.modems;
+package practice;
 public class wheel {
     public static void main(String[] args) {
         String[] phrase = {

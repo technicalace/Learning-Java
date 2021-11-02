@@ -1,4 +1,4 @@
-package practice.java.modems;
+package practice;
 import java.util.*;
 
 public class diceProject {

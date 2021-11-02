@@ -1,4 +1,4 @@
-package practice.java.modems;
+package practice;
 
 public class root {
     public static void main(String[] args) {

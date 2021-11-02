@@ -1,4 +1,4 @@
-package practice.java.modems;
+package practice.modems;
 
 public class dslModem {
     
