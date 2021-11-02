@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch newRoot",
+            "request": "launch",
+            "mainClass": "practice.newRoot",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch gradingSystem",
+            "request": "launch",
+            "mainClass": "practice.gradingSystem",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch wheel",
+            "request": "launch",
+            "mainClass": "practice.wheel",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch loops",
+            "request": "launch",
+            "mainClass": "practice.loops",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -22,9 +50,12 @@
             "name": "Launch blankFiller",
             "request": "launch",
             "mainClass": "practice.blankFiller",
-            "args": ["retromingent, ", "chartreuse", "lactose intolerant"],
+            "args": [
+                "retromingent, ",
+                "chartreuse",
+                "lactose intolerant"
+            ],
             "projectName": "Coding---Personal_c4943455"
-
         },
         {
             "type": "java",
