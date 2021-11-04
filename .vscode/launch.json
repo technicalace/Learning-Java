@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ifStatements",
+            "request": "launch",
+            "mainClass": "ifStatements",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch randomClass",
+            "request": "launch",
+            "mainClass": "randomClass",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch mathClass",
+            "request": "launch",
+            "mainClass": "mathClass",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch hour1",
+            "request": "launch",
+            "mainClass": "practice2.hour1",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch modemTester",
+            "request": "launch",
+            "mainClass": "practice.modems.modemTester",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
             "name": "Launch newRoot",
             "request": "launch",
             "mainClass": "practice.newRoot",

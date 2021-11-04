@@ -7,7 +7,4 @@ public class dslModem extends modem {
         System.out.println("Connecting to the internet ...");
         System.out.println("Using a " + method);
     }
-
-    public void displaySpeed() {
-    }
 }
