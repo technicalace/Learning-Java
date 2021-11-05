@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "practice2.oop.main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch printf",
+            "request": "launch",
+            "mainClass": "practice2.printf",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
             "name": "Launch overloadedMethods",
             "request": "launch",
             "mainClass": "practice2.overloadedMethods",
