@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch overloadedMethods",
+            "request": "launch",
+            "mainClass": "practice2.overloadedMethods",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch methods2",
+            "request": "launch",
+            "mainClass": "practice2.methods2",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch methods",
+            "request": "launch",
+            "mainClass": "practice2.methods",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch forEachLoop",
+            "request": "launch",
+            "mainClass": "practice2.forEachLoop",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayList2d",
+            "request": "launch",
+            "mainClass": "practice2.arrayList2d",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayLists",
+            "request": "launch",
+            "mainClass": "practice2.arrayLists",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch wrapperClass",
+            "request": "launch",
+            "mainClass": "practice2.wrapperClass",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch stringMethods",
+            "request": "launch",
+            "mainClass": "practice2.stringMethods",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrays2d",
+            "request": "launch",
+            "mainClass": "practice2.arrays2d",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrays",
+            "request": "launch",
+            "mainClass": "practice2.arrays",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch nestedLoops",
+            "request": "launch",
+            "mainClass": "practice2.nestedLoops",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch forLoops",
+            "request": "launch",
+            "mainClass": "practice2.forLoops",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch whileLoops",
+            "request": "launch",
+            "mainClass": "practice2.whileLoops",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch logicalOperations",
+            "request": "launch",
+            "mainClass": "practice2.logicalOperations",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
             "name": "Launch switches",
             "request": "launch",
             "mainClass": "practice2.switches",

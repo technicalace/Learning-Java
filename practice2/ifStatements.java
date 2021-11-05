@@ -1,3 +1,4 @@
+package practice2;
 public class ifStatements {
     public static void main(String[] args) {
         int age = 75;

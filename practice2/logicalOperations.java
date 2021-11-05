@@ -10,6 +10,8 @@ public class logicalOperations {
         //                          || = (OR) either condition must be true
         //                          ! = (NOT) reverses boolean value of condition
 
+
+        // AND OPERATOR 
         /*int temp = 15; 
 
         if(temp > 30) {
@@ -22,7 +24,9 @@ public class logicalOperations {
             System.out.println("It is cold outside");
         }*/
 
-        Scanner scanner = new Scanner(System.in);
+
+        // OR OPERATOR
+        /*Scanner scanner = new Scanner(System.in);
 
         System.out.println("You are playing a game! Press q or Q to quit");
         String response = scanner.next();
@@ -32,7 +36,24 @@ public class logicalOperations {
         }
         else {
             System.out.println("You are still playing the game");
+        }*/
+
+
+
+
+        // NOT EQUAL 
+        /*Scanner scanner = new Scanner(System.in);
+
+        System.out.println("You are playing a game! Press q or Q to quit");
+        String response = scanner.next();
+
+        if(!response.equals("q") && !response.equals("Q")) {
+            System.out.println("You are still playing the game");
+            
         }
+        else {
+            System.out.println("You quit the game");
+        }*/
 
     }
 }
