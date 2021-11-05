@@ -9,7 +9,7 @@ public class randomClass {
         //double y = random.nextDouble();
         boolean z = random.nextBoolean();
 
-        System.out.println(y);
+        System.out.println(z);
 
     }
 }

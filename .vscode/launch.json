@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch switches",
+            "request": "launch",
+            "mainClass": "practice2.switches",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
             "name": "Launch ifStatements",
             "request": "launch",
             "mainClass": "ifStatements",
