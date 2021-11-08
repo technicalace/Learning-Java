@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
+            "mainClass": "practice2.exceptionHandling.fileclass.Main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
             "mainClass": "practice2.exceptionHandling.Main",
             "projectName": "Learning-Java_c5ae5515"
         },
