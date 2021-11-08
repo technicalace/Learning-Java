@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "practice2.exceptionHandling.Main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "practice2.dynamicPolymorphism.Main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "practice2.polymorphism.Main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "practice2.interface1.Main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "practice2.copyobjects.Main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "practice2.encapsulation.Main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch Asub",
+            "request": "launch",
+            "mainClass": "practice2.accessmodifier2.Asub",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch A",
+            "request": "launch",
+            "mainClass": "practice2.accessmodifiers1.A",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "practice2.superkeyword.Main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "practice2.methodoverriding.Main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "practice2.inheritance.Main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "practice2.statickeyword.Main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "practice2.objectpassing.main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "practice2.arrayofobjects.main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "practice2.toString.main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
             "name": "Launch main",
             "request": "launch",
             "mainClass": "practice2.oop.main",
