@@ -1,4 +1,4 @@
-package practice2.exceptionHandling.fileclass;
+package practice2.fileclass;
 import java.io.File;
 
 public class Main {
@@ -10,6 +10,10 @@ public class Main {
 
         if (file.exists()) {
             System.out.println("That file exists! :0");
+            System.out.println(file.getPath());
+            System.out.println(file.getAbsolutePath());
+            System.out.println(file.isFile());
+            file.delete();
         }
         else {
             System.out.println("That file doesn't exist");
