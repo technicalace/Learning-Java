@@ -1,7 +1,5 @@
 package practice2.radioButtons;
 
-import practice2.labels.MyFrame;
-
 public class Main {
     public static void main(String[] args) {
 
