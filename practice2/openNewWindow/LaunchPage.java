@@ -29,7 +29,7 @@ public class LaunchPage implements ActionListener {
     public void actionPerformed(ActionEvent e) {
         
         if (e.getSource()==myButton) {
-            
+            frame.dispose();
             NewWindow myWindow = new NewWindow();
         }
         

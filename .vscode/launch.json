@@ -8,6 +8,55 @@
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
+            "mainClass": "practice2.checkbox.Main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "practice2.JOptionPane.Main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "practice2.openNewWindow.Main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "practice2.layeredPane.Main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "practice2.gridLayout.Main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "flowLayout.Main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "practice2.boarderLayout.Main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
             "mainClass": "practice2.buttons.Main",
             "projectName": "Learning-Java_c5ae5515"
         },
