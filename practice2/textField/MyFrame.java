@@ -4,12 +4,10 @@ import java.awt.Dimension;
 import java.awt.Font;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
+import java.awt.FlowLayout;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JTextField;
-
-import practice2.flowLayout.FlowLayout;
 
 public class MyFrame extends JFrame implements ActionListener{
     

@@ -1,9 +1,10 @@
 package practice2.gridLayout;
 
 import java.awt.LayoutManager;
-
 import javax.swing.JButton;
 import javax.swing.JFrame;
+import java.awt.GridLayout;
+
 
 public class Main {
     public static void main(String[] args) {
