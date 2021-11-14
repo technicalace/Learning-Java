@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
+            "mainClass": "practice2.progressbar.Main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
             "mainClass": "practice2.slider.Main",
             "projectName": "Learning-Java_c5ae5515"
         },
