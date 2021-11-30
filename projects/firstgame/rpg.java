@@ -302,36 +302,35 @@ public class rpg {
                 System.out.println("'m' for mage");
                 charclass = scn.nextLine();
             }
-        }
-        if (charclass.charAt(0) == 'w') {
-            warriorClass();
-        }
-        if (charclass.charAt(0) == 'a') {
-            archerClass();
-        }
-        if (charclass.charAt(0) == 'm') {
-            mageClass();
-        }
-        printStats();
-        while (level == 1) {
+            if (charclass.charAt(0) == 'w') {
+                warriorClass();
+            }
+            if (charclass.charAt(0) == 'a') {
+                archerClass();
+            }
+            if (charclass.charAt(0) == 'm') {
+                mageClass();
+            }
+            printStats();
+            while (level == 1) {
+                fight();
+            }
+            System.out.println("This area is clear, time to move on\n");
+            while (level == 2) {
             fight();
-        }
-
-        System.out.println("This area is clear, time to move on\n");
-        while (level == 2) {
+            }
+            System.out.println("This area is clear, time to move on\n");
+            while (level == 3) {
             fight();
-        }
-        System.out.println("This area is clear, time to move on\n");
-        while (level == 3) {
+            }
+            System.out.println("This area is clear, time to move on\n");
+            while (level == 4) {
             fight();
-        }
-        System.out.println("This area is clear, time to move on\n");
-        while (level == 4) {
+            }
+            System.out.println("This area is clear, time to move on\n");
+            while (level == 5) {
             fight();
-        }
-        System.out.println("This area is clear, time to move on\n");
-        while (level == 5) {
-            fight();
+            }
         } // keeps in area until level up
     }
 
