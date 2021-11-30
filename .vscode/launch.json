@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch rpg",
+            "request": "launch",
+            "mainClass": "projects.firstgame.rpg",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "loops.test",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "practice2.selectFile2.Main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "practice2.fileChooser.Main",
+            "projectName": "Learning-Java_c5ae5515"
+        },
+        {
+            "type": "java",
             "name": "Launch Main",
             "request": "launch",
             "mainClass": "practice2.progressbar.Main",
